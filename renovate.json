@@ -1,0 +1,3 @@
+{
+  "versionCompatibility": "^(?<version>[^-]+)(?<compatibility>-.*)?$"
+}
