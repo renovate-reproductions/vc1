@@ -1,4 +1,4 @@
 {
-  "labels": ["foo"],
+  "labels": ["foo", "bar"],
   "versionCompatibility": "^(?<version>[^-]+)(?<compatibility>-.*)?$"
 }
